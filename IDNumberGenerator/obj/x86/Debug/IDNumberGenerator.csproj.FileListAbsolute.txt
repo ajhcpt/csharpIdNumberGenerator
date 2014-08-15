@@ -1,0 +1,14 @@
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.Form1.resources
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.Properties.Resources.resources
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\bin\Debug\IDNumberGenerator.exe
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\bin\Debug\IDNumberGenerator.pdb
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.exe
+c:\documents and settings\andrewhe\my documents\visual studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.pdb
+C:\Documents and Settings\andrewhe\My Documents\Visual Studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\bin\Debug\TechTalk.SpecFlow.dll
+C:\Documents and Settings\andrewhe\My Documents\Visual Studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\bin\Debug\nunit.framework.xml
+C:\Users\andrewhe\Documents\Visual Studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.exe
+C:\Users\andrewhe\Documents\Visual Studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.pdb
+\\Filesrv-agct\UserData\andrewhe\My Documents\Visual Studio 2010\Projects\IDNumberGenerator\IDNumberGenerator\obj\x86\Debug\IDNumberGenerator.pdb
